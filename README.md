@@ -46,6 +46,7 @@ Tiktok-data-privacy-dashboard/
 ---
 
 ## 📷 Example Output (Preview)
+![TikTok Dashboard Preview]
 <img width="1919" height="1079" alt="Screenshot 2025-10-06 194342" src="https://github.com/user-attachments/assets/87e0248f-cf08-4d5c-ac84-0349bcbbad0a" />
 
 
