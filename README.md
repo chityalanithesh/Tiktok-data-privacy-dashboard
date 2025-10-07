@@ -1,4 +1,4 @@
-# 🇺🇸 TikTok Data Privacy Dashboard  
+# US TikTok Data Privacy Dashboard  
 
 A simulated dashboard inspired by **TikTok’s USDS (U.S. Data Security)** initiative.  
 This project visualizes user data compliance, showing where data is stored and whether it meets U.S. data localization and privacy standards.  
